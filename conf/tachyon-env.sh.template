@@ -69,9 +69,7 @@ else
       fi
     fi
   fi
-  if [[ -z "${TACHYON_RAM_FOLDER}" ]]; then
-    export TACHYON_RAM_FOLDER="/mnt/ramdisk"
-  fi
+  export TACHYON_RAM_FOLDER="/mnt/ramdisk"
 fi
 
 if [[ -z "${JAVA_HOME}" ]]; then

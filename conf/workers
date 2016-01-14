@@ -1,2 +1,6 @@
 # A Tachyon Worker will be started on each of the machines listed below.
-localhost
+rs3g13002.et2sqa
+rs3g13003.et2sqa
+rs3g13004.et2sqa
+rs3g13005.et2sqa
+rs3g13006.et2sqa
